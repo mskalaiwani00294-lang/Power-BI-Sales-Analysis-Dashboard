@@ -1,10 +1,8 @@
 
 
-@ -1 +1,59 @@
-# PowerBI_readme-template
-# PowerBI_readme-template
 
-# 📊 Project Title: Sales Performance Dashboard
+
+# 📊 Project Title: Power BI Sales Analysis Dashboard
 
 An interactive Power BI dashboard designed to analyze sales performance, track targets, and identify business growth opportunities.
 ## 📑 Table of Contents
